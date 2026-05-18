@@ -1,0 +1,4 @@
+2026-05-19 00:42:38,526 - src.OrderAnalyzer - ERROR - Файл order_empty.csv не содержит данные
+2026-05-19 00:42:38,533 - src.OrderAnalyzer - ERROR - Файл order_without_two_columns.csv имеет некорректную структуру или не содержит колонок для расчета метрик: 'Отсутствует колонка "person_id"'
+2026-05-19 00:42:38,546 - src.OrderAnalyzer - ERROR - Файл order_wrong_format.csv имеет некорректную структуру: Неверный формат у колонки "order_date"
+2026-05-19 00:42:38,564 - src.OrderAnalyzer - ERROR - Файл order_wrong_type.csv имеет некорректную структуру: Неверный тип у колонки "total_amount"
