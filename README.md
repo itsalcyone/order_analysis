@@ -1,1 +1,1 @@
-# pyda_routine_automation
+# Итоговая проектная работа по модулю "Основы python"
